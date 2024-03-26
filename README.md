@@ -1,2 +1,4 @@
-hola mundo!
-soy lao!
+## RESPUESTA
+
+Para archivos que no quiero que esten expuestos en el repositorio remoto, por ejemplo .env con las variables de entorno.
+solamente hace falta agregar el nombre del archivo o carpeta en forma textual en el archivo .gitignore o la extension del archivo que quisieras ocultar.
